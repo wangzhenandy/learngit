@@ -8,4 +8,4 @@ next change!
 
 push to the origin master!
 
-create a new branch test!
+creating a new branch is quick and simple.
