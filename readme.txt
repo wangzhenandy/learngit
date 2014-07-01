@@ -13,3 +13,5 @@ creating a new branch is quick and simple.
 no-ff merge
 
 merge dev and master from dev
+
+I'm working on dev branch
