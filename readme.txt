@@ -19,3 +19,5 @@ fix bug 001
 I'm working on dev branch
 
 push as https
+
+push as ssh
